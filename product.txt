@@ -3,4 +3,9 @@ remote da degisiklikler ekledik....
 nsb branchi taskini tamamladi
 
 bazi ozellikler ekledim nsb
+
+ns ozellik ekledi
+
+
 diger developer ozellik ekledi
+
